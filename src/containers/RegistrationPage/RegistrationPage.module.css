@@ -1,0 +1,55 @@
+.EverythingContainer{
+    background-image: url('/src/Assets/background_img_4.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+}
+
+
+.RegistrationContainer{
+     padding:100px 10px 100px 10px; 
+     margin-right:28%;
+     
+}
+
+.RegistrationBox{
+    background-color: white;
+    padding:40px 40px 40px 40px;
+    border-radius: 0px 10px 10px 0px;
+    width: 130%;
+}
+.RegistrationBox, .LoginBox{
+    margin:auto;
+}
+
+.LoginBox{
+    background-color:#2E8B57;
+    margin-left:57%;
+    width:52%;
+    border-radius: 10px 0px 0px 10px;
+    color:white;
+    padding:27% 10% 27% 10%;
+   
+    text-align:center;
+    font-weight:bold;
+}
+
+/* @media  */
+
+.SubmitButton{
+    background-color: #2E8B57 !important;
+    border-color:#2E8B57 !important;
+    padding:8px 50px 8px 50px !important;
+    margin-bottom:8% !important;
+    margin-top:17%  !important;
+    margin-left:16% !important;
+    font-size:18px;
+}
+
+.LoginButton{
+    background-color: #2E8B57 !important;
+    border-color:white !important;
+    padding:8px 50px 8px 50px !important;
+    margin-top:20%;
+    font-size:18px;
+}

@@ -1,0 +1,14 @@
+.Toolbar{
+    background-color:	#2E8B57 ;
+    box-shadow:none;
+}
+
+.Logo{
+    padding:8px;
+    border-radius:5px;
+}
+
+.Logo img{
+    height:55px;
+    width:35px;
+}
