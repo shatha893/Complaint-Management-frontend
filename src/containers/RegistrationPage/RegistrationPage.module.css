@@ -14,7 +14,7 @@
 
 .RegistrationBox{
     background-color: white;
-    padding:40px 40px 40px 40px;
+    padding:10% 10% 10% 10%;
     border-radius: 0px 10px 10px 0px;
     width: 130%;
 }
@@ -24,12 +24,14 @@
 
 .LoginBox{
     background-color:#2E8B57;
-    margin-left:57%;
+    /* margin-left:57%; */
     width:52%;
     border-radius: 10px 0px 0px 10px;
     color:white;
     padding:27% 10% 27% 10%;
-   
+    position:relative;
+    left:32%;
+    
     text-align:center;
     font-weight:bold;
 }
@@ -40,8 +42,8 @@
     background-color: #2E8B57 !important;
     border-color:#2E8B57 !important;
     padding:8px 50px 8px 50px !important;
-    margin-bottom:8% !important;
-    margin-top:17%  !important;
+    margin-bottom:7% !important;
+    margin-top:14%  !important;
     margin-left:16% !important;
     font-size:18px;
 }
@@ -49,7 +51,8 @@
 .LoginButton{
     background-color: #2E8B57 !important;
     border-color:white !important;
-    padding:8px 50px 8px 50px !important;
-    margin-top:20%;
+    padding:4% 40% 4% 40% !important;
+    margin-top:27%;
     font-size:18px;
+    /* margin-left:inherit; */
 }
